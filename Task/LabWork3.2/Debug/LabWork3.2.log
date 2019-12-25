@@ -1,1 +1,10 @@
-﻿  LabWork3.2.vcxproj -> C:\Users\ivano\OneDrive\Документы\Labs\C++\LaboratoryWork3.2\Task\Debug\LabWork3.2.exe
+﻿  LabWork3.2.cpp
+c:\users\ivano\onedrive\документы\labs\c++\laboratorywork3.2\task\labwork3.2\labwork3.2.cpp(82): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\ivano\onedrive\документы\labs\c++\laboratorywork3.2\task\labwork3.2\labwork3.2.cpp(111): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\ivano\onedrive\документы\labs\c++\laboratorywork3.2\task\labwork3.2\labwork3.2.cpp(119): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\ivano\onedrive\документы\labs\c++\laboratorywork3.2\task\labwork3.2\labwork3.2.cpp(68): warning C4101: animal: неиспользованная локальная переменная
+c:\users\ivano\onedrive\документы\labs\c++\laboratorywork3.2\task\labwork3.2\labwork3.2.cpp(287): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\ivano\onedrive\документы\labs\c++\laboratorywork3.2\task\labwork3.2\labwork3.2.cpp(298): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\ivano\onedrive\документы\labs\c++\laboratorywork3.2\task\labwork3.2\labwork3.2.cpp(374): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\ivano\onedrive\документы\labs\c++\laboratorywork3.2\task\labwork3.2\labwork3.2.cpp(424): warning C4018: <: несоответствие типов со знаком и без знака
+  LabWork3.2.vcxproj -> C:\Users\ivano\OneDrive\Документы\Labs\C++\LaboratoryWork3.2\Task\Debug\LabWork3.2.exe
